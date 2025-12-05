@@ -21,6 +21,15 @@ We aimed to answer several key questions, including:
 
 ---
 
+## 📄 Data Source
+
+The dataset used for this analysis was obtained from **[Bayanat.ae](https://bayanat.ae/en/Data)**, the official open data portal of the UAE.
+
+- **Dataset Name:** Live Births by Emirate, Gender and Nationality 1997 - 2015
+- **Direct Link:** https://admin.bayanat.ae/Home/DatasetInfo?dID=vMeX8LEWLHbeQ2cBmwzQuQw22lDMVNo9d45dlCDcCVY
+
+---
+
 ## 🛠️ Technologies & Libraries Used
 
 - **Language:** Python
