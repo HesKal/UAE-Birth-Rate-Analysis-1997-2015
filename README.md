@@ -53,11 +53,15 @@ This project was my first deep dive into the world of data analytics, solidifyin
 
 
 **Overall Birth Trend (1997-2015)**
+
+
 <img width="590" height="455" alt="image" src="https://github.com/user-attachments/assets/0e645e14-95cc-440f-ac6d-2809ceffe79c" />
 
 
 
 **Births by Emirate**
+
+
 <img width="597" height="553" alt="image" src="https://github.com/user-attachments/assets/dd229c0d-1453-44e0-b23b-d945b6b941a5" />
 
 ---
